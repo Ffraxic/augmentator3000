@@ -13,7 +13,7 @@ export default {
   name: 'Manaforge Omega',
   id: 43,
   icon: Zone43Png,
-  partition: 6,
+  partition: 0,
   encounters: [
     {
       name: 'Plexus Sentinel',
