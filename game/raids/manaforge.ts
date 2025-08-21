@@ -21,7 +21,7 @@ export default {
       icon: Boss3129Jpg,
     },
     {
-      name: 'Loom'ithar',
+      name: 'Loom\'ithar',
       id: 3131,
       icon: Boss3131Jpg,
     },
